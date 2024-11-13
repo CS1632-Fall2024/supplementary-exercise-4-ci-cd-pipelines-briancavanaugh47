@@ -155,4 +155,9 @@
     </plugins>
   </reporting>
 
+<properties>
+  <sonar.organization>cs1632-fall2024</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+
 </project>
